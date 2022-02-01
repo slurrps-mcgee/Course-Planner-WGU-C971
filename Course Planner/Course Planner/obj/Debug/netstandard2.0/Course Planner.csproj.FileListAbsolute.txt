@@ -1,0 +1,89 @@
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.AssemblyReference.cache
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfoInputs.cache
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfo.cs
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.CoreCompileInputs.cache
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.deps.json
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.dll
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\ref\Course Planner.dll
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.pdb
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\XamlC.stamp
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.dll
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\ref\Course Planner.dll
+F:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.pdb
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.deps.json
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\ref\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.pdb
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfoInputs.cache
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfo.cs
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.CoreCompileInputs.cache
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\XamlC.stamp
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\ref\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.pdb
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.AssemblyReference.cache
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\TermAdd.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\TermDetail.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\CourseDetail.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.deps.json
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\ref\Course Planner.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.pdb
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.AssemblyReference.cache
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.GeneratedMSBuildEditorConfig.editorconfig
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\AssessmentsDetail.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\AssessmentsPage.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\CourseDetail.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\TermAdd.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\TermDetail.xaml.g.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfoInputs.cache
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfo.cs
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.CoreCompileInputs.cache
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\XamlC.stamp
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\ref\Course Planner.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.pdb
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.deps.json
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\ref\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Course Planner.pdb
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\AssessmentsDetail.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\AssessmentsPage.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\CourseDetail.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\TermAdd.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Pages\TermDetail.xaml.g.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfoInputs.cache
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.AssemblyInfo.cs
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.CoreCompileInputs.cache
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\XamlC.stamp
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\ref\Course Planner.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.pdb
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.AssemblyReference.cache
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.Abstractions.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Support.Compat.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Support.VersionedParcelable.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Support.Collections.dll
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.pdb
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.Abstractions.pdb
+D:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.CopyComplete
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.Abstractions.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Support.Compat.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Support.VersionedParcelable.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Arch.Lifecycle.Common.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Xamarin.Android.Support.Collections.dll
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.pdb
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\bin\Debug\netstandard2.0\Plugin.LocalNotifications.Abstractions.pdb
+G:\School Work\Mobile Development\Course Planner - Copy\Course Planner\Course Planner\obj\Debug\netstandard2.0\Course Planner.csproj.CopyComplete

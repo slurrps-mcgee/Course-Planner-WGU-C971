@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Course_Planner.TermAdd"
+             Background="dimgray">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Fill">
+            <!--Header and Buttons-->
+            <Grid Margin="0,0,0,25">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <!--Row 0 Logo-->
+                    <RowDefinition Height="1*"/>
+                    <!--Row 1 Page Title and back button-->
+                    <RowDefinition Height=".3*"/>
+                    <!--Row 2 Alert Info-->
+                    <RowDefinition Height=".5*"/>
+                    <!--Row 3 Term Title-->
+                    <RowDefinition Height=".5*"/>
+                    <!--Row 4 Term Start-->
+                    <RowDefinition Height=".5*"/>
+                    <!--Row 5 Term End-->
+                    <RowDefinition Height="4*"/>
+                    <!--Row 6 Space-->
+                    <RowDefinition Height=".5*"/>
+                    <!--Row 7 Bottom Button-->
+
+                </Grid.RowDefinitions>
+
+                <!--Logo Image-->
+                <Image Source="wgu.png"
+                       Grid.ColumnSpan="2"
+                       Grid.Row="0" 
+                       Grid.Column="1"
+                       HeightRequest="60"
+                       HorizontalOptions="Center" 
+                       Margin="0, 10, 0, 0"
+                       VerticalOptions="Center"
+                       WidthRequest="60"
+                />
+
+                <!--Back Button-->
+                <ImageButton x:Name="btnBack"
+                             Source="baseline_arrow_back_white_48.png"
+                             Clicked="btnBack_Clicked"
+                             BackgroundColor="#023763"
+                             CornerRadius="10"
+                             Grid.Column="0"
+                             Grid.Row="1"
+                             HeightRequest="40"
+                             HorizontalOptions="Center"
+                             VerticalOptions="Center"
+                             WidthRequest="40"/>
+
+                <!--Application Title-->
+                <Label Text="Add Term"
+                       FontSize="25"
+                       Grid.ColumnSpan="2"
+                       Grid.Column="1"
+                       Grid.Row="1"
+                       HorizontalTextAlignment="Center"
+                       VerticalOptions="Center"
+                       VerticalTextAlignment="Center"/>
+
+                <!--Information-->
+                <Label Text="Please enter the term information below."
+                       FontSize="20"
+                       Grid.ColumnSpan="4"
+                       Grid.Row="2"
+                       HorizontalOptions="Center"/>
+
+                <!--############################################################-->
+                <!--Content-->
+                <!--Row 1 Title-->
+                <Label VerticalOptions="Center"
+                       FontSize="20"
+                       TextColor="White"
+                       Text="Term Title:" 
+                       Grid.Row="3"
+                       Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                       Margin="25,0,0,0"/>
+                <Entry x:Name="txtTitle"
+                       VerticalOptions="Center"
+                       FontSize="20"
+                       TextColor="White"
+                       Placeholder="Enter Title" 
+                       Grid.Row="3"
+                       Grid.Column="2"
+                       Grid.ColumnSpan="2"
+                       Margin="0,0,25,0"/>
+
+                <!--Row 2 Start Date-->
+                <Label VerticalOptions="Center"
+                       FontSize="20"
+                       TextColor="White"
+                       Text="Start Date:" 
+                       Grid.Row="4"
+                       Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                       Margin="25,0,0,0"/>
+                <DatePicker x:Name="startDate"
+                            VerticalOptions="Center"
+                            FontSize="20"
+                            Grid.Row="4"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="2"
+                            Margin="0,0,25,0"/>
+
+                <!--Row 3 End Date-->
+                <Label VerticalOptions="Center"
+                       FontSize="20"
+                       TextColor="White"
+                       Text="End Date:" 
+                       Grid.Row="5"
+                       Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                       Margin="25,0,0,0"/>
+                <DatePicker x:Name="endDate"
+                            VerticalOptions="Center"
+                            FontSize="20"
+                            Grid.Row="5"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="2"
+                            Margin="0,0,25,0"/>
+
+                <!--Bottom Button Save-->
+                <Button x:Name="btnSave"
+                        Text="Save"
+                        Clicked="btnSave_Clicked"
+                        BackgroundColor="#023763"
+                        CornerRadius="10"
+                        Grid.Row="7"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="4"
+                        Margin="25,0,25,0"
+                        TextColor="White"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
